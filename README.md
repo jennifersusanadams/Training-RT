@@ -1,1 +1,1 @@
-# training_RT
+# RT Training session for Phi-Lab research staff
